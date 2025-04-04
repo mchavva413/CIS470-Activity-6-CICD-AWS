@@ -8,6 +8,3 @@ https://lmh3hv0zyk.execute-api.us-east-1.amazonaws.com/default
 **URL:**  
 https://github.com/mchavva413/CIS470-Activity-6-CICD-AWS
 
-## 3) GitHub Actions Screenshot  
-See the attached screenshot file named: `github-actions-success.png`
-
