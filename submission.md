@@ -8,7 +8,7 @@
 - This link invokes the deployed Lambda function and returns:  
   `"Hello from CIS470 Activity 6!"`
 
-- Lambda was deployed automatically through GitHub Actions (CI/CD pipeline).
+
 
 
 
@@ -17,12 +17,7 @@
 **GitHub Repo URL**:  
 [https://github.com/mchavva413/CIS470-Activity-6-CICD-AWS](https://github.com/mchavva413/CIS470-Activity-6-CICD-AWS)
 
-- The repo contains:
-  - Lambda code (`lambda_function.py`)
-  - GitHub Actions workflow file (`.github/workflows/main.yml`)
-  - Submission file (`submission.md`)
-  - Screenshot(s) of GitHub Actions run
-- CI/CD pipeline automatically deploys the Lambda function to AWS on every push.
+
 
 
 
